@@ -1,12 +1,13 @@
-#include "stdio.h"
-#include "stdlib.h"
-#include "unistd.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/types.h>
 
 /**
- * infinite_while - a loop the runs till etanity
+ * infinite_while - a loop that runs till eternity
  *
  * Return: 0 for success
-*/
+ */
 int infinite_while(void)
 {
 	while (1)
@@ -19,8 +20,8 @@ int infinite_while(void)
 /**
  * main - program that creates 5 zombie processes
  *
- * Return: 0 for sucess
-*/
+ * Return: 0 for success
+ */
 int main(void)
 {
 	int ch_pid = 0;

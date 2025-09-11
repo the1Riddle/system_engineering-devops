@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.exe
+*_test
+zombie_test
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*.temp
