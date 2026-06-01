@@ -1,6 +1,6 @@
 # System Engineering DevOps
 
-My progres as a SE student in ALX 
+My progres as a SE student in ALX x Zone
 
 | Project | Description |
 | :--- | :---|
